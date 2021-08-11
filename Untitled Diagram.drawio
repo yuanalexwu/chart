@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T06:36:54.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="N3_N0LT_Ma0Cw3BjJKEe" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T06:42:24.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="bgeXPWnJvJ7uWQP8u7aA" version="14.6.13" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="466" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dKWHJv7x2FfMzqPXW4Y6-21572" value="生产(3)" style="ellipse;whiteSpace=wrap;opacity=60;html=1;fontSize=15;fontColor=#FFFFFF;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="730" y="429.2" width="80" height="210.8" as="geometry" />
         </mxCell>
-        <mxCell id="21560" value="市场(3)" style="ellipse;whiteSpace=wrap;rotation=0;fillColor=#f08705;opacity=60;html=1;gradientColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21560" value="市场(2)" style="ellipse;whiteSpace=wrap;rotation=0;fillColor=#f08705;opacity=60;html=1;gradientColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="406" y="240" width="357.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="21562" value="硬件产品(6)" style="ellipse;whiteSpace=wrap;opacity=60;html=1;fontSize=15;fontColor=#FFFFFF;fillColor=#33FF99;align=center;" parent="1" vertex="1">
